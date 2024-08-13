@@ -1,2 +1,2 @@
-# PingTester
+# LatencyTester
 PingTester
